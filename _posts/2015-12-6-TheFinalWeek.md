@@ -17,7 +17,17 @@ Not having any extra quizzes to offset absences for things like interviews was a
 
 For any prospective students looking to enroll, this class is excellent as long as you don't already have a strong understanding of C++. If you already do, you might not get as much out of this class, because it's mostly a class about learning C++ to do fundamental OOP things, and not so much a class about OO design. That being said, Professor Downing is one of the best lecturers I've encountered at UT. He explains things well, involves you in the lectures, and answers questions clearly. I can't imagine anyone regretting taking this class.
 
-Some additional thoughts: you also get exposure to some developer tools. Version control: Git, which you'll probably see in a lot of classes, is easy to pick up, often used in industry, and extremely useful. Unit testing/code coverage: gtest/gcov, which is very similar to other unit testing tools like JUnit that we used in Data Structures, is absolutely invaluable for writing code that works. Documentation: doxygen, which I'd never encountered before, is actually extremely useful and easy to use; it makes it pretty satisfying to write thorough documentation by outputting it in nice html. Memory checking: valgrind will teach you to avoid typing `new` and always type `delete` (or `delete []`) where `new` is needed, a great lesson in the perils of memory leakage. Finally, continuous integration: Travis-CI... undoubtedly this is a useful tool in industry and even in other classes, but in this class, with projects of such tiny scope, using this thing seemed a bit pointless.
+Some additional thoughts: you also get exposure to some developer tools...
+
+ - Version control: Git, which you'll probably see in a lot of classes, is easy to pick up, often used in industry, and extremely useful.
+
+ - Unit testing/code coverage: gtest/gcov, which is very similar to other unit testing tools like JUnit that we used in Data Structures, is absolutely invaluable for writing code that works.
+
+ - Documentation: doxygen, which I'd never encountered before, is actually extremely useful and easy to use; it makes it pretty satisfying to write thorough documentation by outputting it in nice html.
+
+ - Memory checking: valgrind will teach you to avoid typing `new` and always type `delete` (or `delete []`) where `new` is needed, a great lesson in the perils of memory leakage.
+
+ - Finally, continuous integration: Travis-CI... undoubtedly this is a useful tool in industry and even in other classes, but in this class, with projects of such tiny scope, using this thing seemed a bit pointless.
 
 #### Tip of the Week
 
